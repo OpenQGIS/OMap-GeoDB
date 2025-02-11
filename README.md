@@ -1,6 +1,7 @@
 # OMap-GeoDB
 由 **OpenQGIS** 分享的源自 [OSM(OpenStreetMap)](https://www.openstreetmap.org/) 的 ***超常规** 地理数据库* 。
 
+[网盘地址](https://caiyun.139.com/m/i?2jQXim20qyrqi)    提取码:uos2
 
 ## 铁路数据
 铁路数据日期：2025.2.6
