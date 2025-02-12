@@ -1,8 +1,6 @@
 # OMap-GeoDB
 由 **OpenQGIS** 分享的源自 [OSM(OpenStreetMap)](https://www.openstreetmap.org/) 的 ***超常规** 地理数据库* 。
 
-[网盘地址](https://caiyun.139.com/m/i?2jQXim20qyrqi)    提取码:uos2
-
 ## 铁路数据
 铁路数据日期：2025.2.6
 
@@ -33,3 +31,7 @@
 
 ### 3. 电力-面数据：power_polygon_oData
 [【电力-面数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_polygon_oData.7z)
+
+---
+
+**方法2-网盘下载：**[网盘地址](https://caiyun.139.com/m/i?2jQXim20qyrqi)    提取码:uos2
