@@ -20,9 +20,9 @@
 | 中文        | 分歧线         | 停车线         | 跨越道岔       | 车场           | 支线           | Y型线路         | 工业铁路       | 公用铁路       | 车库入口     | 巷道         |
 
 #### 3. usage 数据解析
-| 英语       | main            | branch         | test           | industrial     | military       | tourism        | freight        | transportation | siding        | yard          | gathering      | spillway       |
-| ---------- | --------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | ------------- | ------------- | ------------- | ------------- |
-| 中文     | 主线             | 支线           | 测试线         | 工业铁路       | 军事铁路       | 旅游铁路       | 货运铁路       | 运输铁路       | 停车线         | 车场           | 集散线         | 泄水线         |
+| 英语       | main            | branch         | test           | industrial     |tourism        | freight        | transportation | siding        | yard          | gathering      | spillway       |
+| ---------- | --------------- | -------------- | -------------- | -------------- |-------------- | -------------- | -------------- | ------------- | ------------- | ------------- | ------------- |
+| 中文     | 主线             | 支线           | 测试线         | 工业铁路       |旅游铁路       | 货运铁路       | 运输铁路       | 停车线         | 车场           | 集散线         | 泄水线         |
 
 
 下载地址👉 [【铁路-线位下载-part1】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-railway/%E9%93%81%E8%B7%AF.zip.001)
@@ -35,7 +35,7 @@
 
 | 英语词汇       | monorail        | subway         | train          | tram           | tram_stop      |
 | --------------- | --------------- | -------------- | -------------- | -------------- | -------------- |
-| 中文含义     | 单轨铁路         | 地铁           | 火车           | 有轨电车       | 有轨电车站     |
+| 中文含义     | 单轨铁路站         | 地铁站           | 火车站           | 有轨电车站       | 有轨电车停车点     |
 
 下载地址👉 [【铁路-站点下载】](https://github.com/OpenQGIS/OMap-GeoDB/tree/main/oData-railway-station)
 
@@ -46,6 +46,10 @@
 ### 1. 电力-点数据：power_point_oData
 > **分卷压缩**；下载是务必下载zip.001、zip.002、zip.003，解压其中一个即可获取数据
 
+| 英语词汇 |tower | generator | transformer | compensator |
+| --------- |----- | -------- | ---------- | ---------- |
+| 中文含义 |高压电塔 | 发电机   | 变压器    | 补偿器    |
+
 [【电力-点位数据-part1】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_point_oData.zip.001)
  | 
 [【电力-点位数据-part2】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_point_oData.zip.002)
@@ -53,10 +57,26 @@
 [【电力-点位数据-part3】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_point_oData.zip.003)
 
 ### 2. 电力-线数据：power_line_oData
-[【电力-线位数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_line_oData.7z)
+
+| 英语词汇 | cables | circuits | frequency | voltage | MAX_volt | MAX_kv |
+| --------- | ------ | ------- | -------- | ------ | ------- | ------ |
+| 中文含义 | 电缆数   | 电路数    | 频率     | 电压    | 最大电压 | 最大千伏 |
+
+下载地址👉 [【电力-线位数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_line_oData.7z)
 
 ### 3. 电力-面数据：power_polygon_oData
-[【电力-面数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_polygon_oData.7z)
+
+| 英语词汇 | substation | generator | plant |
+| --------- | ---------- | -------- | ----- |
+| 中文含义 | 变电站    | 发电机   | 工厂  |
+
+| 英语词汇 | nuclear | coal | solar | gas | waste | hydro | wind | diesel | biomass | waste coal | oil | geothermal | battery | coal gas | petroleum coke |
+| --------- | ------- | ---- | ----- | --- | ----- | ----- | ---- | ------ | ------- | ---------- | --- | --------- | ------- | -------- | -------------- |
+| 中文含义 | 核能    | 煤炭 | 太阳能 | 天然气 | 废物能源 | 水力发电 | 风能 | 柴油 | 生物质 | 废弃煤 | 石油 | 地热能 | 电池储能 | 煤气 | 焦炭            |
+
+
+
+下载地址👉 [【电力-面数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_polygon_oData.7z)
 
 ---
 
