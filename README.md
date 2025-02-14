@@ -1,16 +1,16 @@
 # OMap-GeoDB
 由 **OpenQGIS** 分享的源自 [OSM(OpenStreetMap)](https://www.openstreetmap.org/) 的 ***超常规** 地理数据库* 。
 
-## 目录<a id="section1"></a>
+## 目录
 
-- [一、🚆 铁路数据](#section2)
-- [二、⚡ 电力数据](#section3)
-- [三、🛫 机场跑道](#section4)
-- [网盘地址](#section9)
+- [一、🚆 铁路数据](#section1)
+- [二、⚡ 电力数据](#section2)
+- [三、🛫 机场跑道](#section3)
+- [网盘地址](#section99)
   
 ----
 
-## 一、🚆 铁路数据<a id="section2"></a>
+## 一、🚆 铁路数据<a id="section1"></a>
 
 铁路数据日期：2025.2.6
 
@@ -50,9 +50,7 @@
 下载地址👉 [【铁路-站点下载】](https://github.com/OpenQGIS/OMap-GeoDB/tree/main/oData-railway-station)
 
 
-## 目录<a id="section1"></a>
-
-## 二、⚡ 电力数据<a id="section3"></a>
+## 二、⚡ 电力数据<a id="section2"></a>
 
 电力数据日期：2025.2.6
 
@@ -91,7 +89,7 @@
 
 下载地址👉 [【电力-面数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_polygon_oData.7z)
 
-## 三、🛫 机场跑道<a id="section4"></a>
+## 三、🛫 机场跑道<a id="section3"></a>
 
 
 铁路数据日期：2025.2.6
@@ -103,5 +101,6 @@
 下载地址👉 [【机场跑道-线数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-aeroways/aeroways_oData.zip)
 
 ---
-## 终章·网盘地址<a id="section9"></a>
-**方法2-网盘下载：**[网盘地址](https://caiyun.139.com/m/i?2jQXim20qyrqi)    提取码:uos2
+## 合集网盘下载地址<a id="section99"></a>
+
+**网盘下载：**[网盘地址](https://caiyun.139.com/m/i?2jQXim20qyrqi)    提取码:uos2
