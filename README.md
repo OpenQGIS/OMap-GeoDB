@@ -81,6 +81,8 @@
 ## 三、🛫 机场跑道
 铁路数据日期：2025.2.6
 
+下载地址👉 [【机场跑道-线数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-aeroways/aeroways_oData.zip)
+
 ---
 
 **方法2-网盘下载：**[网盘地址](https://caiyun.139.com/m/i?2jQXim20qyrqi)    提取码:uos2
