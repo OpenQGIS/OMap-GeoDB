@@ -27,7 +27,7 @@
 
 | 英语           | spur            | siding         | crossover      | yard           | branch         | wye            | industrial     | utility        | driveway      | alley         |
 | --------------- | --------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | ------------- | -------------- |
-| 中文        | 分歧线         | 停车线         | 跨越道岔       | 车场           | 支线           | Y型线路         | 工业铁路       | 公用铁路       | 车库入口     | 巷道         |
+| 中文        | 分歧线         | 边线         | 跨越道岔       | 车场           | 支线           | Y型线路         | 工业铁路       | 公用铁路       | 车库入口     | 巷道         |
 
 #### 3. usage 数据解析
 | 英语       | main            | branch         | test           | industrial     |tourism        | freight        | transportation | siding        | yard          | gathering      | spillway       |
