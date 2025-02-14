@@ -1,7 +1,7 @@
 # OMap-GeoDB
 由 **OpenQGIS** 分享的源自 [OSM(OpenStreetMap)](https://www.openstreetmap.org/) 的 ***超常规** 地理数据库* 。
 
-## 🚆 铁路数据
+## 一、🚆 铁路数据
 铁路数据日期：2025.2.6
 
 ### 1. 铁路线位：oData-railway
@@ -40,10 +40,10 @@
 下载地址👉 [【铁路-站点下载】](https://github.com/OpenQGIS/OMap-GeoDB/tree/main/oData-railway-station)
 
 
-## ⚡ 电力数据
+## 二、⚡ 电力数据
 电力数据日期：2025.2.6
 
-### 1. 电力-点数据：power_point_oData
+###  1. 电力-点数据：power_point_oData
 > **分卷压缩**；下载是务必下载zip.001、zip.002、zip.003，解压其中一个即可获取数据
 
 | 英语词汇 |tower | generator | transformer | compensator |
@@ -56,7 +56,7 @@
  | 
 [【电力-点位数据-part3】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_point_oData.zip.003)
 
-### 2. 电力-线数据：power_line_oData
+###  2. 电力-线数据：power_line_oData
 
 | 英语词汇 | cables | circuits | frequency | voltage | MAX_volt | MAX_kv |
 | --------- | ------ | ------- | -------- | ------ | ------- | ------ |
@@ -64,7 +64,7 @@
 
 下载地址👉 [【电力-线位数据】](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/oData-power/power_line_oData.7z)
 
-### 3. 电力-面数据：power_polygon_oData
+###  3. 电力-面数据：power_polygon_oData
 
 | 英语词汇 | substation | generator | plant |
 | --------- | ---------- | -------- | ----- |
