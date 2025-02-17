@@ -1,6 +1,10 @@
 # OMap-GeoDB
 由 **OpenQGIS** 分享的源自 [OSM(OpenStreetMap)](https://www.openstreetmap.org/) 的 ***超常规** 地理数据库* 。
 
+<div style="text-align: center;">
+  <a href="https://github.com/OpenQGIS/OMap-GeoDB/blob/main/qrcode_OpenQGIS.jpg" target="_blank">
+    <img src="https://github.com/OpenQGIS/OMap-GeoDB/blob/main/qrcode_OpenQGIS.jpg" style="width: 15%;" title="公众号二维码">
+
 ## 目录
 
 一、 [🚆 铁路数据](#section1)
