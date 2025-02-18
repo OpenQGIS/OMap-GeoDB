@@ -1,6 +1,6 @@
 <div style="text-align: center;">
   <a href="https://github.com/OpenQGIS/OMap-GeoDB/blob/main/OMap-GeoDB.png" target="_blank">
-    <img src="https://github.com/OpenQGIS/OMap-GeoDB/blob/main/OMap-GeoDB.png" style="width: 15%;" title="OMap-GeoDB">
+    <img src="https://github.com/OpenQGIS/OMap-GeoDB/blob/main/OMap-GeoDB.png" style="width: 100%;" title="OMap-GeoDB">
 
 # OMap-GeoDB
 由 [**OpenQGIS**](https://github.com/OpenQGIS/OMap-GeoDB/blob/main/qrcode_OpenQGIS.jpg) 分享的源自 [OSM(OpenStreetMap)](https://www.openstreetmap.org/) 的 ***超常规** 地理数据库* 。
